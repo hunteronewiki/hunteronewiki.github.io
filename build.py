@@ -924,6 +924,21 @@ def extract_hero_base_stats(body_md: str):
 _HERO_WIDGET_COUNTER = [0]
 
 
+def render_stat_disclaimer():
+    """A prominent, consistent banner for any page displaying sourced game
+    statistics — used automatically wherever numeric hero/gear data appears,
+    since Kingshot patches regularly and community-sourced numbers can drift."""
+    return (
+        '<div class="callout callout-warning stat-disclaimer">'
+        '<p class="callout-title"><span class="callout-icon">&#9888;</span>Stats subject to change</p>'
+        '<div class="callout-body"><p>The numbers on this page are sourced from community data, '
+        "not official patch notes. Kingshot updates regularly, and these values can drift out of "
+        "date. Treat them as a starting point, not gospel — verify anything important against your "
+        "own in-game screen before making big spending decisions.</p></div>"
+        "</div>"
+    )
+
+
 def render_hero_stat_widget(base_stats):
     idx = _HERO_WIDGET_COUNTER[0]
     _HERO_WIDGET_COUNTER[0] += 1
@@ -1031,12 +1046,12 @@ def render_note_body(note, notes, depth):
     if note["category"] == "heroes":
         base_stats = extract_hero_base_stats(raw_body_for_summary)
         if base_stats:
-            body_html = render_hero_stat_widget(base_stats) + body_html
+            body_html = render_stat_disclaimer() + render_hero_stat_widget(base_stats) + body_html
 
     if note.get("is_gear_index"):
         pieces = extract_gear_pieces(raw_body_for_summary)
         if pieces:
-            body_html = render_gear_widget(pieces) + body_html
+            body_html = render_stat_disclaimer() + render_gear_widget(pieces) + body_html
 
     infobox_html = render_infobox(
         facts, CATEGORY_LABELS.get(note["category"], ""), note["title"], notes, depth

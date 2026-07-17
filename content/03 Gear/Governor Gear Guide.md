@@ -58,4 +58,4 @@ Both are "global" bonuses that apply to every troop under your command during ex
 - Letting one troop type's Governor Gear lag far behind the others
 - Confusing Governor Gear (Atk/Def) with Governor Charms (Lethality/Health) when planning upgrades
 
-See also: [[Governor Charms Guide]], [[Hero Gear Guide]], [[Hall of Governors]]
+See also: [[Governor Charms Guide]], [[Hero Gear Guide]], [[Hall of Governors]], [[Gear Index]]

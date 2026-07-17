@@ -57,4 +57,4 @@ Salvage/reforge extra or misplaced gear for **100% XP + hammer recovery**. If yo
 - Spending Mithril on non-priority pieces
 - Forgetting to reforge gear stuck on non-main-march heroes
 
-See also: [[Governor Gear Guide]], [[Governor Charms Guide]], [[Hero Overview and Roles]]
+See also: [[Governor Gear Guide]], [[Governor Charms Guide]], [[Hero Overview and Roles]], [[Gear Index]]

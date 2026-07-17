@@ -32,4 +32,4 @@ Before doing anything with hero gear, figure out your **main march** — your to
 ## Picking Roles for Specific Heroes
 Some heroes are known "joiner specialists" (their value is in a passive skill useful even at low investment) rather than rally-leader material — check each hero's specific writeup in the generation notes for this kind of role note.
 
-See also: [[Hero Gear Guide]], [[Generation 1 Heroes]], [[Bear Hunt]], [[F2P Priority Guide]]
+See also: [[Hero Gear Guide]], [[Generation 1 Heroes]], [[Bear Hunt]], [[F2P Priority Guide]], [[Hero Roulette]], [[Hall of Heroes]]

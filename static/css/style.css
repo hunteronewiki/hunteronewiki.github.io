@@ -541,6 +541,10 @@ h1 {
   background: var(--ink-800);
   padding: 12px 16px 14px;
 }
+.stat-disclaimer {
+  margin: 0 0 1.3em;
+  border-left-width: 4px;
+}
 .callout-title {
   display: flex;
   align-items: center;

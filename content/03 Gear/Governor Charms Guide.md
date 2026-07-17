@@ -29,4 +29,4 @@ Health and Lethality are widely considered the two most impactful stats for over
 ## Teaching point for new members
 > Charms are unlocked at Town Center 25 and boost Health + Lethality — the two stats that matter most in combat. The best way to farm charm materials is playing Eternity's Reach well — it's solo, free, and skill-based, so don't skip it just because you're F2P.
 
-See also: [[Governor Gear Guide]], [[Hero Gear Guide]], [[Eternity's Reach]]
+See also: [[Governor Gear Guide]], [[Hero Gear Guide]], [[Eternity's Reach]], [[Gear Index]]

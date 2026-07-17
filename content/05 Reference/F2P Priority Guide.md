@@ -43,4 +43,4 @@ For new or free-to-play alliance members. Point them here when they ask "what sh
 - Skipping Eternity's Reach because "it's for whales" — it's actually one of the most F2P-friendly events in the game since troops are free and unlimited
 - Fully upgrading Exclusive Gear on a Gen 1 hero right before your server crosses into Gen 3+
 
-See also: [[Hero Overview and Roles]], [[Hero Gear Guide]], [[Event Calendar and 4-Week Cycle]], [[Gem Spending Priority]], [[Beginner's Guide]]
+See also: [[Hero Overview and Roles]], [[Hero Gear Guide]], [[Event Calendar and 4-Week Cycle]], [[Gem Spending Priority]], [[Beginner's Guide]], [[Hall of Heroes]]

@@ -57,4 +57,4 @@ A commonly reported 4-week rotation looks roughly like:
 - **Before Strongest Governor:** save speedups tied to whichever category (training/building/research) that rotation rewards.
 - **Before Bear Hunt window:** confirm your main march roster is online and ready — late joiners to a rally lose most of the damage value since rallies resolve almost instantly once launched.
 
-See also: [[Kingshot Glossary]], [[Bear Hunt]], [[Kingdom vs Kingdom (KvK)]], [[Strongest Governor]], [[Kingdom Calendar]], [[Buccaneer Bounty]]
+See also: [[Kingshot Glossary]], [[Bear Hunt]], [[Kingdom vs Kingdom (KvK)]], [[Strongest Governor]], [[Kingdom Calendar]], [[Buccaneer Bounty]], [[Cesares Fury]]

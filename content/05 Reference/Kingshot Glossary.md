@@ -37,6 +37,7 @@ Quick-reference terms. Link back here with `[[Kingshot Glossary]]` whenever you 
 - **Bear Hunt / Bear Trap** — weekly alliance rally-boss event.
 - **Relic Points** — the scoring currency in Swordland Showdown (Alliance Relic Points = alliance-wide bracket score; Personal Relic Points = your individual reward tier).
 - **Corsair Keys / Pearls of Enigma** — the two currencies in [[Buccaneer Bounty]]. Keys are permanent and carry over between cycles; Pearls expire at the end of each cycle.
+- **Cesares Accord** — a help-request token used in [[Cesares Fury]]; you get 5 per event to have alliance members finish a Rebel for you.
 
 ## Misc
 - **TC (Town Center)** — your main city hall building; its level gates most systems (gear crafting, charms, etc.).

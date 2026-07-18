@@ -8,6 +8,7 @@ The one-stop vault for learning Kingshot deeply — for every [ONE]OneForAll mem
 
 ## Events
 [[Bear Hunt]]
+[[Cesares Fury]]
 [[Swordland Showdown]]
 [[Mystic Trial]]
 [[Eternity's Reach]]
@@ -37,6 +38,7 @@ The one-stop vault for learning Kingshot deeply — for every [ONE]OneForAll mem
 
 ## Announcements
 [[Announcement - Bear Hunt]]
+[[Announcement - Cesares Fury]]
 [[Announcement - Swordland Showdown]]
 [[Announcement - Mystic Trial]]
 [[Announcement - Eternity's Reach]]
